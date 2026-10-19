@@ -18,7 +18,7 @@ SpaceX propose des lancements Falcon 9 à environ 62 millions de dollars, contre
 | 8. Analyse prédictive (Machine Learning) | [SpaceX_Machine_Learning_Prediction_Part_5.ipynb](SpaceX_Machine_Learning_Prediction_Part_5.ipynb) |
 | Présentation finale | [Rapport_Capstone_SpaceX.pdf](Rapport_Capstone_SpaceX.pdf) |
 
-Les captures d'écran sont dans [images/](images/) et les cartes Folium interactives dans [maps/](maps/).
+Les captures d'écran (fichiers .png) et les cartes Folium interactives (fichiers .html) sont à la racine du dépôt.
 
 ## Résultats clés
 
